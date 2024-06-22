@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.Optional;
 
-@CrossOrigin(origins = "https://king-prawn-app-d5upj.ondigitalocean.app")
+@CrossOrigin(origins = "https://martyx.online")
 @RestController
 public class MessageController {
 
